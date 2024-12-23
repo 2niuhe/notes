@@ -1,0 +1,9 @@
+[submodule "third_party/how-to-read-pytorch"]
+	path = third_party/how-to-read-pytorch
+	url = https://github.com/davidbau/how-to-read-pytorch.git
+[submodule "third_party/torch-graph"]
+	path = third_party/torch-graph
+	url = https://github.com/alpha0422/torch-graph.git
+[submodule "third_party/Tensor-Puzzles"]
+	path = third_party/Tensor-Puzzles
+	url = https://github.com/srush/Tensor-Puzzles.git
