@@ -1,3 +1,6 @@
 [submodule "how-to-read-pytorch"]
 	path = how-to-read-pytorch
 	url = https://github.com/davidbau/how-to-read-pytorch.git
+[submodule "torch-graph"]
+	path = torch-graph
+	url = https://github.com/alpha0422/torch-graph.git
